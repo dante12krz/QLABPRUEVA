@@ -22,7 +22,7 @@ public class Main {
 
 /*
         Auto auto1 = new Auto();
-
+        /editado por Joseph aribel ruiz delgado "/
         auto1.encenderMotor();
         auto1.avanzar();
         auto1.avanzar();
